@@ -1,0 +1,68 @@
+Handle,Title,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,SKU,HS Code,COO,Location,Incoming,Unavailable,Committed,Available,On hand
+puff-large,Puff Large,Color,Latte,,,,,"",,,Shop location,0,0,0,103,103
+puff-large,Puff Large,Color,Chocolate,,,,,"",,,Shop location,0,0,0,200,200
+puff-large,Puff Large,Color,Emerald,,,,,"",,,Shop location,0,0,0,200,200
+small-naomi,Small Naomi,Color,Gummy,,,,,"",,,Shop location,0,0,0,203,203
+small-naomi,Small Naomi,Color,Lizard Effect Brown,,,,,"",,,Shop location,0,0,0,100,100
+small-naomi,Small Naomi,Color,Sprinkles,,,,,"",,,Shop location,0,0,0,100,100
+small-naomi,Small Naomi,Color,Milky,,,,,"",,,Shop location,0,0,0,100,100
+small-naomi,Small Naomi,Color,Tropez,,,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,Buttermilk,Size,35,,,"",,,Shop location,0,0,0,103,103
+louise-slide-sandal,Louise Slide Sandal,Color,Buttermilk,Size,36,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,Buttermilk,Size,37,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,Buttermilk,Size,38,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,Buttermilk,Size,39,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,Buttermilk,Size,40,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,Buttermilk,Size,41,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,Gummy,Size,35,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,Gummy,Size,36,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,Gummy,Size,37,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,Gummy,Size,38,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,Gummy,Size,39,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,Gummy,Size,40,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,Gummy,Size,41,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,White,Size,35,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,White,Size,36,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,White,Size,37,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,White,Size,38,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,White,Size,39,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,White,Size,40,,,"",,,Shop location,0,0,0,100,100
+louise-slide-sandal,Louise Slide Sandal,Color,White,Size,41,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Milky,Size,35,,,"",,,Shop location,0,0,0,103,103
+otti-combat-boot,Otti Combat Boot,Color,Milky,Size,36,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Milky,Size,37,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Milky,Size,38,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Milky,Size,39,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Milky,Size,40,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Milky,Size,41,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Multicolor,Size,35,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Multicolor,Size,36,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Multicolor,Size,37,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Multicolor,Size,38,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Multicolor,Size,39,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Multicolor,Size,40,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Multicolor,Size,41,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Olive,Size,35,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Olive,Size,36,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Olive,Size,37,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Olive,Size,38,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Olive,Size,39,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Olive,Size,40,,,"",,,Shop location,0,0,0,100,100
+otti-combat-boot,Otti Combat Boot,Color,Olive,Size,41,,,"",,,Shop location,0,0,0,100,100
+womens-gym-t-shirt,Women's Gym T-Shirt,Size,Small,Color,Gray,,,"",,,Shop location,0,0,0,103,103
+womens-gym-t-shirt,Women's Gym T-Shirt,Size,Small,Color,Black,,,"",,,Shop location,0,0,0,100,100
+womens-gym-t-shirt,Women's Gym T-Shirt,Size,Medium,Color,Gray,,,"",,,Shop location,0,0,0,100,100
+womens-gym-t-shirt,Women's Gym T-Shirt,Size,Medium,Color,Black,,,"",,,Shop location,0,0,0,100,100
+womens-gym-t-shirt,Women's Gym T-Shirt,Size,Large,Color,Gray,,,"",,,Shop location,0,0,0,100,100
+womens-gym-t-shirt,Women's Gym T-Shirt,Size,Large,Color,Black,,,"",,,Shop location,0,0,0,100,100
+womens-gym-t-shirt-1,Women's Gym T-Shirt,Size,Small,Color,Dark Brown,,,"",,,Shop location,0,0,0,103,103
+womens-gym-t-shirt-1,Women's Gym T-Shirt,Size,Small,Color,Pink,,,"",,,Shop location,0,0,0,100,100
+womens-gym-t-shirt-1,Women's Gym T-Shirt,Size,Small,Color,Neon,,,"",,,Shop location,0,0,0,100,100
+womens-gym-t-shirt-1,Women's Gym T-Shirt,Size,Medium,Color,Dark Brown,,,"",,,Shop location,0,0,0,100,100
+womens-gym-t-shirt-1,Women's Gym T-Shirt,Size,Medium,Color,Pink,,,"",,,Shop location,0,0,0,100,100
+womens-gym-t-shirt-1,Women's Gym T-Shirt,Size,Medium,Color,Neon,,,"",,,Shop location,0,0,0,100,100
+womens-gym-t-shirt-1,Women's Gym T-Shirt,Size,Large,Color,Dark Brown,,,"",,,Shop location,0,0,0,100,100
+womens-gym-t-shirt-1,Women's Gym T-Shirt,Size,Large,Color,Pink,,,"",,,Shop location,0,0,0,100,100
+womens-gym-t-shirt-1,Women's Gym T-Shirt,Size,Large,Color,Neon,,,"",,,Shop location,0,0,0,100,100
+studio-bag,Studio Bag,Color,Denim,,,,,"",,,Shop location,0,0,0,103,103
+studio-bag,Studio Bag,Color,Oyster,,,,,"",,,Shop location,0,0,0,100,100
